@@ -1,6 +1,6 @@
 # Automate_DS - ML Data Analysis & Model Predictor
 
-A production-ready web application that automates machine learning workflows with real sklearn, seaborn, and matplotlib integration. Features an AI-powered Intelligent System Designer (ISD) that acts as your ML architect.
+A web application that automates machine learning workflows with real sklearn, seaborn, and matplotlib integration. Features an AI-powered Intelligent System Designer (ISD) that acts as your ML architect.
 
 
 ## 🛠️ Tech Stack
